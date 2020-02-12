@@ -12,7 +12,7 @@ public class LibraryTest {
     @Before
     public void before(){
         library = new Library(1);
-        book1 = new Book("Anna Karenina", "Leo Tolstoy", "Tragedy");
+        book1 = new Book("Ender's Game", "Orson Scott Card", "Sci-Fi");
         book2 = new Book("Crooked Kingdom", "Leigh Bardugo", "YA Fiction");
     }
 

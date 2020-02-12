@@ -16,7 +16,7 @@ public class BorrowerTest {
         library = new Library(3);
         olivia = new Borrower("Olivia");
         book1 = new Book("Harry Potter and the Prisoner of Azkaban", "J.K. Rowling", "Adventure");
-        book2 = new Book("To All The Boys I've Loved Before", "Jenny Han", "YA Fiction");
+        book2 = new Book("A Torch Against the Night", "Saaba Tahir", "YA Fiction");
         book3 = new Book("The Hate You Give", "Angie Thomas", "YA Fiction");
     }
 
